@@ -59,7 +59,7 @@ DIRASA/
 ### الطريقة الثانية : للمطورين (Python 3.10+)
 ```bash
 # 1. استنساخ المشروع
-git clone https://github.com/VOTRE_NOM_UTILISATEUR/DIRASA_AI.git
+git clone https://github.com/MarouanBounadar/DIRASA_AI.git
 cd DIRASA_AI
 
 # 2. تثبيت المكتبات المطلوبة
