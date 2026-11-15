@@ -1,0 +1,35 @@
+# Secrets and API keys
+config.json
+.env
+*.key
+
+# Compiled & Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+build_log.txt
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# PyInstaller & binary builds
+build/
+dist/
+*.spec
+
+# User generated data & exports
+downloads/
+exports/
+*.mp3
+*.wav
+*.mp4
+*.pdf
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

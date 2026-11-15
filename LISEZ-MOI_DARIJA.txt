@@ -1,0 +1,152 @@
+=====================================================================
+        🎓 DIRASA AI  -  L'application dial les révisions
+          Séance ➔ Cours PDF + Quiz + Flashcards + Prof
+                    100% Faboor (Gratuit)
+=====================================================================
+
+Salam l'groupe ! 👋
+DIRASA AI kat-akhod l'enregistrement dial séance (lien BigBlueButton,
+YouTube, Drive, Zoom, wla fichier audio/vidéo, wla tsjjel direct mn
+l'micro f l'amphi) o kat-sayb lik :
+  - Cours PDF mratb b les chapitres, les définitions o les pièges d'examen
+  - 20+ questions QCM (Quiz)
+  - 20+ Flashcards
+  - Examen Blanc chronométré noté 3la 20
+  - "Sawel l'Prof" : chat m3a prof virtuel (b l'kitaba wla b l'micro)
+
+
+---------------------------------------------------------------------
+ 1) L'INSTALLATION (2 minutes)
+---------------------------------------------------------------------
+
+ 1. Télécharger "DIRASA_AI.zip".
+ 2. Clic droit 3lih ➔ "Extraire tout..." ➔ "Extraire".
+    ⚠️ Ma-tkhdmch mn dakhel l'ZIP nichan, khass t-extraire 9bel.
+ 3. Dkhol l'dossier "DIRASA_AI" o double-clic 3la "DIRASA_AI.exe".
+
+ ⚠️ Ma-tfr9ch "DIRASA_AI.exe" 3la dossier "_internal".
+    Khasshom y-b9aw jouj f nfs l'dossier. Ila bghiti raccourci f
+    l'Bureau : clic droit 3la DIRASA_AI.exe ➔ "Envoyer vers" ➔
+    "Bureau (créer un raccourci)".
+
+ ❓ Windows Defender tl3 lik "Windows a protégé votre ordinateur" ?
+    Hadchi 3adi 7it l'application ma-signéech (machi virus).
+    Wrek 3la "Informations complémentaires" ➔ "Exécuter quand même".
+
+ ⏳ L'merra l'wla l'application t9der t-tl3 b chwiya (10-20 secondes).
+    Sbbr, ma-t3awdch t-wrek 3liha bzaf dyal l'merrat.
+
+
+---------------------------------------------------------------------
+ 2) L'CLÉ GEMINI (DAROURIYA - FABOOR - BLA CARTE BANCAIRE)
+---------------------------------------------------------------------
+
+ Bla had l'clé, l'application kat-khdem ghir f "Mode Démo"
+ (kat-werik cours exemple, machi l'cours dialk).
+
+ 1. F l'application, dkhol l'onglet "⚙️ Paramètres & Clés".
+ 2. Wrek 3la "🔗 Ouvrir Google AI Studio pour obtenir une clé"
+    (wla sir direct l : https://aistudio.google.com/apikey).
+ 3. Dkhol b compte Gmail dialk.
+ 4. Wrek 3la "Create API key" ➔ copier l'clé (kat-bda b "AIza...").
+ 5. Rje3 l'application, colli l'clé f "Google Gemini API Key".
+ 6. Wrek 3la "💾 Enregistrer les Paramètres".
+
+ F l'te7t 3la l'isar khass y-ban : "● Gemini ... (Actif)" ✅
+
+ 🔒 L'clé dialk dialk bo7dek. Ma-t-partagihach f l'groupe.
+
+
+---------------------------------------------------------------------
+ 3) KIFACH TSAYB COURS MN SÉANCE
+---------------------------------------------------------------------
+
+ Onglet "🚀 Nouveau Cours" :
+
+ 1. Source :
+    - "Lien Web" ➔ colli l'lien dial l'enregistrement (BigBlueButton,
+      YouTube, Drive...) b l'bouton "📋 Coller".
+    - wla "Fichier Local" ➔ "📁 Parcourir..." o khtar MP3/MP4/WAV...
+ 2. (Optionnel) Slides dial l'prof : ila 3ndek l'PDF dial les diapos,
+    zido b "📎 Parcourir Slides (PDF)". L'cours ghay-koun m9ad kter
+    7it l'IA kat-jme3 bin chno gal l'prof o chno kayn f les slides.
+ 3. Khtar la langue o kteb smiya dial l'Matière
+    (ex: "Programmation C"). ⚠️ Kteb DIMA nfs smiya l'nfs l'matière
+    bach les séances y-tjm3o f nfs l'dossier f la Bibliothèque.
+ 4. Wrek 3la "🚀 LANCER LA GÉNÉRATION".
+
+ ⏳ 3la 7sab toul dial séance o l'connexion, t9der takhod chi
+    d9ay9 (séance dial 1h30 = 3adatan 3 7ta 10 d9ay9).
+
+ 🎙️ F l'amphi ? Onglet "🎙️ Enregistreur d'Amphi" :
+    wrek bach tbda t-sjjel b l'micro dial l'PC, o mlli ysali l'cours
+    w9fo o lanci l'génération direct.
+
+
+---------------------------------------------------------------------
+ 4) KIFACH T-RAJA3
+---------------------------------------------------------------------
+
+ 🎯 L'BARRE DIAL L'FO9 ("Cours Actif") :
+    Khtar l'Matière ➔ khtar la Séance. Daba ga3 les onglets (Quiz,
+    Flashcards, Prof, Examen) kay-khdmo 3la dik la séance.
+
+ 📚 Bibliothèque des Cours : ga3 les cours dialk mratbin par matière
+    (📁 dossier l'kol matière, w dakhel Séance 1, Séance 2...).
+    F kol séance : Quiz, Sawel l'Prof, Examen Blanc, PDF, PDF Éco.
+
+ ⚡ Synthèse Express (Contrôle) : f l'dossier dial ay matière.
+    Kat-jme3 ga3 les séances dial l'matière f fiche PDF sghira
+    (formules, règles, pièges d'examen). Mzyana l-lila 9bel l'contrôle.
+
+ 🖨️ PDF Éco (N&B) : version bla l'wan, khfifa 3la l'encre.
+    Hadi li tdi l'photocopie bach t-imprimi rkhis.
+
+ 🎯 Quiz QCM / 🧠 Flashcards / 📝 Examen Blanc (/20) :
+    t-testé rassek. Les notes kay-tsjjlo f "📊 Tableau de Bord".
+
+ 💬 Sawel l'Prof : swl ay sou'al 3la la séance (Darija wla Français).
+    - "🎙️ Parler au micro" : wrek, hder, 3awed wrek bach yt-sifet.
+    - "🔊 Écouter l'explication" : l'prof y-9ra lik l'jawab b sowt.
+
+ 📅 Tableau de Bord ➔ "Planning Intelligent de Révision" :
+    kay-goul lik ina séance khassek t-raja3 lyouma (J+1, J+3, J+7,
+    J+14) bach ma-tnsach. Wrek 3la l'bouton 7dah o bda direct.
+
+
+---------------------------------------------------------------------
+ 5) FIN KAY-TSJJLO LES COURS DIALI ?
+---------------------------------------------------------------------
+
+ F l'dossier "exports" li kay-tsayb 7da DIRASA_AI.exe.
+ ⚠️ Ila mse7ti l'dossier DIRASA_AI, ghadi tmse7 m3ah les cours.
+    Dir sauvegarde l'dossier "exports" (clé USB, Drive...).
+
+
+---------------------------------------------------------------------
+ 6) MOCHKIL ? (DÉPANNAGE)
+---------------------------------------------------------------------
+
+ ❌ L'application ma-bghatch t-t7ell
+    ➔ T2kd bli extractiti l'ZIP o bli "_internal" kayn 7da l'exe.
+    ➔ Khassek Windows 10 wla 11 (64 bits).
+
+ ❌ Kat-3tini cours "Algorithmique Avancée" machi diali
+    ➔ Hadak Mode Démo. Ma-dkhltich l'clé Gemini (chouf partie 2).
+
+ ❌ Erreur 503 / "pic de charge" / "quota"
+    ➔ Serveurs Gemini l'faboor 3amrin. Tsnna 1-2 d9ay9 o 3awed.
+
+ ❌ Le téléchargement dial l'lien w9ef
+    ➔ T2kd mn l'connexion. L'application kat-kmmel mn fin w9fat
+      w7dha. Ila b9a l'mochkil, télécharger l'vidéo b yeddik o
+      khdem b "Fichier Local".
+
+ ❌ L'micro ma-kay-sjjel walou
+    ➔ Paramètres Windows ➔ Confidentialité ➔ Microphone ➔
+      khlli les applications y-sta3mlo l'micro.
+
+
+=====================================================================
+  Bon courage f les révisions o b noqat mzyanin incha'Allah ! 📚💪
+=====================================================================
