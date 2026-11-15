@@ -1,5 +1,9 @@
 # 🎓 DIRASA AI (دراسة)
 
+[![Downloads](https://img.shields.io/github/downloads/MarouanBounadar/DIRASA_AI/total?style=for-the-badge&logo=windows&logoColor=white&color=2563eb&label=T%C3%A9l%C3%A9chargements)](https://github.com/MarouanBounadar/DIRASA_AI/releases)
+[![Version](https://img.shields.io/github/v/release/MarouanBounadar/DIRASA_AI?style=for-the-badge&color=10b981&label=Version)](https://github.com/MarouanBounadar/DIRASA_AI/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 > **Plateforme Universitaire Intelligente : Transformez vos enregistrements d'amphi en cours PDF structurés, quiz QCM, flashcards et préparation aux examens.**  
 > *100% Gratuit (Faboor) — Conçu pour les étudiants marocains.*
 
